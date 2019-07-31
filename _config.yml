@@ -276,3 +276,5 @@ page404:
     homePageName: 回到我的主页
 
 baidu_push: true
+
+theme: jekyll-theme-architect
