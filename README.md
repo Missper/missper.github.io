@@ -11,6 +11,13 @@ permalink: /about
 
 详细配置可以参见[这篇博文](https://wu-kan.github.io/posts/博客搭建/基于Jekyll搭建个人博客)
 
+## 关于
+
+此项目基于Github的pages功能: 介绍查看: https://zhuanlan.zhihu.com/p/76063614
+
+此项目使用jekyll(一个简单的免费的Blog生成工具)构建
+
+
 ## 声明
 
 除特别声明或转载外，所有博文采用[署名-相同方式共享 4.0 国际](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)协议进行许可。
