@@ -5,15 +5,12 @@ permalink: /about
 ---
 ## 开始
 
-1. Fork [wu-kan/wu-kan.github.io](https://github.com/wu-kan/wu-kan.github.io)到你的仓库，并在设置里开启gh-pages
+1. Fork [Missper/missper.github.io](https://github.com/Missper/missper.github.io)到你的仓库，并在设置里开启gh-pages
 2. 修改_config.yml为你自己的信息
 3. 删除_post/下的博文和public/image/文件夹下的图片，开始写你自己的文章
 
-详细配置可以参见[这篇博文](https://wu-kan.github.io/posts/博客搭建/基于Jekyll搭建个人博客)
 
 ## 关于
-
-此项目基于Github的pages功能: 介绍查看: https://zhuanlan.zhihu.com/p/76063614
 
 此项目使用jekyll(一个简单的免费的Blog生成工具)构建
 
@@ -22,7 +19,7 @@ permalink: /about
 
 除特别声明或转载外，所有博文采用[署名-相同方式共享 4.0 国际](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)协议进行许可。
 
-博客基于[MIT License](https://github.com/wu-kan/wu-kan.github.io/blob/master/LICENSE)开源于[GitHub](https://github.com/wu-kan/wu-kan.github.io)。
+博客基于[MIT License](https://github.com/Misspeer/Misspeer.github.io/blob/master/LICENSE)开源于[GitHub](https://github.com/Misspeer/Misspeer.github.io)。
 
 ## 致谢
 
@@ -236,5 +233,4 @@ Live2D基于[stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/liv
 ### 2018-11-15
 
 - 在Github上成功部署博客
-- 成功迁移[原CSDN博客](https://blog.csdn.net/w_weilan)上的所有文章
 - live2d

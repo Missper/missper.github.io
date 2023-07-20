@@ -154,8 +154,8 @@ sidebar:
   avatar: # 侧边栏显示的头像
     enable: true
     img: //www.gravatar.com/avatar/a12c5fff23dde00df79af9aca4e7b6e4?d=wavatar&s=600 # 头像的地址
-    info: <br>19级在读<br>计科方向<br>Winter<br>田宫例四驱车<br>永远喜欢水野爱 # 头像背后的信息
-  description: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=52 src="//music.163.com/outchain/player?type=0&id=3064212793&auto=0&height=32"></iframe>'
+    info: <br>19级在读<br>软工方向<br>Winter<br> # 头像背后的信息
+  description: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=52 src="//music.163.com/outchain/player?type=0&id=3064212793&auto=1&height=32"></iframe>'
   social:
   - title: rss # rss
     href: /atom.xml
@@ -170,12 +170,12 @@ sidebar:
   - title: github # email
     href: //github.com/missper
     class: 'fa fa-github fa-fw'
-  - title: WuK # codeforces
-    href: //codeforces.com/profile/WuK
-    class: 'fa fa-bar-chart fa-fw'
-  - title: WuK # vjudge
-    href: //vjudge.net/user/WuK
-    class: 'fa fa-smile-o fa-fw'
+  # - title: WuK # codeforces
+  #   href: //codeforces.com/profile/WuK
+  #   class: 'fa fa-bar-chart fa-fw'
+  # - title: WuK # vjudge
+  #   href: //vjudge.net/user/WuK
+  #   class: 'fa fa-smile-o fa-fw'
   nav:
   - title: '<span class="fa fa-home fa-fw"></span>&nbsp;首页'
     href: /
@@ -224,7 +224,7 @@ run-time:
 
 copyright:
   enable: true
-  text: '已开源于<a href="//github.com/wu-kan/wu-kan.github.io">GitHub</a><br>'
+  text: '已开源于<a href="//github.com/Missper/missper.github.io">GitHub</a><br>'
 
 post:
   meta:
