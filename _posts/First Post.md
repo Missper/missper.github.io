@@ -2,6 +2,7 @@
 title: OSPF
 categories: 随笔
 date: 2023-07-20 11:02:20
+tags: 随笔
 ---
 
 # 第一篇帖子
