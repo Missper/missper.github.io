@@ -1,9 +1,11 @@
 ---
 layout: page
 title: Missper的博客🔔
-showtag:
-- 个人笔记
+showtag: 
+  - 个人笔记
+  - ICPC模板
 ---
+
 ## 近期
 
 {% for post in site.posts limit:5 %}
